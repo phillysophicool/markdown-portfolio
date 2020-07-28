@@ -1,1 +1,1 @@
-[link to GitHub] https://github.com/phillysophicool
+[link to GitHub] (https://github.com/phillysophicool)
