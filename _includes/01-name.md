@@ -1,0 +1,6 @@
+# PhillySoPhiCool's first "H1 size" header using markdown "#"
+## PhillySoPhiCool's first "H2 size" header using markdown "##"
+### PhillySoPhiCool's first "H3 size" header using markdown "###"
+#### PhillySoPhiCool's first "H4 size" header using markdown "####"
+##### PhillySoPhiCool's first "H5 size" header using markdown "#####"
+###### PhillySoPhiCool's first "H6 size" header using markdown "######"
